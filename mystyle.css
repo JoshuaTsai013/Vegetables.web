@@ -34,7 +34,7 @@ html {
  #icon {
     width: 271px;
     height: 62px;
-    font-family: Arial;
+    font-family: Arial Black;
     margin: 0 0;
     padding: 9px 0 3px 0;
     font-size: 44px;
@@ -122,7 +122,7 @@ html {
     border-radius: 3px;
     background-color: #778a50;
     color: #edf2c5;
-    font-family: Arial;
+    font-family: Arial Black;
     font-size: 16px;
     font-weight: 900;
     text-align: left;
